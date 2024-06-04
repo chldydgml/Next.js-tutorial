@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <h2>Welcome</h2>
       Hello, WEB!
-      <img src="/black.png"></img>
+      <br></br><img src="/black.png"></img>
     </>
   );
 }
